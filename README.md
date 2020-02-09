@@ -54,3 +54,9 @@ parse(test_func.__doc__)
                'section_header': 'Examples'}]}
 
 ```
+
+#### Install
+
+```
+pip install gdparser
+```
