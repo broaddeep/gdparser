@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
     
 package_name = 'gdparser'
-version = '0.0.1'
+version = '0.0.2'
 description = "Google Docstring Parser"
 url = "https://github.com/broaddeep/gdparser.git"
 
